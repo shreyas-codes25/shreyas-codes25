@@ -34,11 +34,6 @@
 [![JSP](https://img.shields.io/badge/-JSP-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javaserverpages.html)
 [![Web Hosting](https://img.shields.io/badge/-Web%20Hosting-333333?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com/)
 
-## 💼 Work Experience
-
-- **Software Developer Intern** - XYZ Company (May 2023 - Aug 2023)
-  - Developed and maintained RESTful APIs using Node.js and Express.
-  - Integrated Firebase authentication and cloud functions into the mobile app.
 
 ## 📚 Projects
 
