@@ -34,9 +34,9 @@
 [![JSP](https://img.shields.io/badge/-JSP-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javaserverpages.html)
 [![Web Hosting](https://img.shields.io/badge/-Web%20Hosting-333333?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com/)
 
-## 🔭 Top Contributed Repository
+<!--## 🔭 Top Contributed Repository
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=shreyas-codes25&hide=B&theme=onedark)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=shreyas-codes25&hide=B&theme=onedark)-->
 ## 📊 GitHub Stats
 
 ![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyas-codes25&show_icons=true&theme=onedark)
