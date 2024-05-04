@@ -34,9 +34,27 @@
 [![JSP](https://img.shields.io/badge/-JSP-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javaserverpages.html)
 [![Web Hosting](https://img.shields.io/badge/-Web%20Hosting-333333?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com/)
 
-<!--## 🔭 Top Contributed Repository
+## 💼 Work Experience
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=shreyas-codes25&hide=B&theme=onedark)-->
+- **Software Developer Intern** - XYZ Company (May 2023 - Aug 2023)
+  - Developed and maintained RESTful APIs using Node.js and Express.
+  - Integrated Firebase authentication and cloud functions into the mobile app.
+
+## 📚 Projects
+
+- **Air-Ink Software** - [Repository]([https://github.com/shreyas-codes25/e-commerce-website](https://github.com/shreyas-codes25/air-ink-app))
+  - Developed in python fully using opencv , and a hand recognition module that can detect palm to draw on screen as well as perform mouse operations
+  - Created the hand recognition module with mediapipe and opencv.
+
+- **To-Do App** - [Repository]([https://github.com/shreyas-codes25/to-do-app](https://github.com/shreyas-codes25/todo_list_using_flutter))
+  - Built a simple to-do application using Flutter and Firebase.
+  - Implemented CRUD operations for managing tasks.
+
+## 🚀 Skills & Interests
+
+- **Skills**: JavaScript, Python, Java, React, Node.js, Flutter, MongoDB, MySQL, AWS, Git
+- **Interests**: Cloud Computing, DevOps, Mobile App Development, Open Source Contribution
+
 ## 📊 GitHub Stats
 
 ![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyas-codes25&show_icons=true&theme=onedark)
