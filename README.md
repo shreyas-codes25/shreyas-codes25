@@ -28,6 +28,7 @@
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 [![Laragon](https://img.shields.io/badge/-Laragon-orange?style=flat&logo=laragon&logoColor=white)](https://laragon.org/)
+[![ChatGPT](https://img.shields.io/badge/-ChatGPT-4CA7E9?style=flat&logo=openai&logoColor=white)](https://openai.com/chatgpt)
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev/)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
