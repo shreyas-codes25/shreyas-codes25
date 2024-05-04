@@ -3,7 +3,11 @@
 - 👀 I’m interested in coding in Java and Python, mobile application development.
 - 🌱 I’m currently studying B.Tech in Information Technology at Sanjivani College of Engineering.
 - 💞️ I’m looking to collaborate on projects in Python, Java, website development with JavaScript, mobile application development, and software testing.
-- 📫 You can reach me on [Instagram](https://www.instagram.com/shreyyas03/) or [LinkedIn](https://www.linkedin.com/in/shreyas-ghodake-268274203/)
+
+## 📱 Social Media
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shreyyas03/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-ghodake-268274203/)
 
 ## 🔧 My Tech Stack
 
