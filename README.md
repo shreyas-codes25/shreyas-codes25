@@ -11,52 +11,34 @@
 
 ## 🔧 My Tech Stack
 
-### Programming Languages:
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev/)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://www.learn-c.org/)
-
-### Frontend Development:
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
-
-### Backend Development & Databases:
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
-
-
-### Mobile App Development:
-[![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/studio)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
-
-### Web Technologies & Tools:
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
+[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://www.learn-c.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Web Hosting](https://img.shields.io/badge/-Web%20Hosting-333333?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com/)
-
-### Development Tools:
-[![StarUML](https://img.shields.io/badge/-StarUML-326CE5?style=flat&logo=staruml&logoColor=white)](http://staruml.io/)
-[![Laragon](https://img.shields.io/badge/-Laragon-orange?style=flat&logo=laragon&logoColor=white)](https://laragon.org/)
-
-### Cloud & Server Management:
+[![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/studio)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-
-### Additional Technologies:
+[![StarUML](https://img.shields.io/badge/-StarUML-326CE5?style=flat&logo=staruml&logoColor=white)](http://staruml.io/)
+[![Laragon](https://img.shields.io/badge/-Laragon-orange?style=flat&logo=laragon&logoColor=white)](https://laragon.org/)
+[![ChatGPT](https://img.shields.io/badge/-ChatGPT-4CA7E9?style=flat&logo=openai&logoColor=white)](https://openai.com/chatgpt)
 [![TASM](https://img.shields.io/badge/-TASM-004AAD?style=flat&logo=assembly&logoColor=white)](http://www.tasm32.com/)
 [![JSP](https://img.shields.io/badge/-JSP-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/javaserverpages.html)
 
-### ChatGPT:
-[![ChatGPT](https://img.shields.io/badge/-ChatGPT-4CA7E9?style=flat&logo=openai&logoColor=white)](https://openai.com/chatgpt)
 
 
 ## 📚 Projects
