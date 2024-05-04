@@ -36,8 +36,7 @@
 
 ## 🔭 Top Contributed Repository
 
-[![Top Contributed Repository](https://img.shields.io/badge/-Check_out_my_Top_Contributed_Repo!-blueviolet?style=flat)](https://github.com/shreyas-codes25/top-contributed-repo)
-
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=shreyas-codes25&hide=B&theme=onedark)
 ## 📊 GitHub Stats
 
 ![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyas-codes25&show_icons=true&theme=onedark)
