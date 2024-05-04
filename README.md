@@ -37,13 +37,14 @@
 
 ## 📚 Projects
 
-- **Air-Ink Software** - [Repository]([https://github.com/shreyas-codes25/e-commerce-website](https://github.com/shreyas-codes25/air-ink-app))
-  - Developed in python fully using opencv , and a hand recognition module that can detect palm to draw on screen as well as perform mouse operations
-  - Created the hand recognition module with mediapipe and opencv.
+- **Air-Ink Software** - [Repository](https://github.com/shreyas-codes25/air-ink-app)
+  - Developed in Python fully using OpenCV, and a hand recognition module that can detect palm to draw on screen as well as perform mouse operations.
+  - Created the hand recognition module with MediaPipe and OpenCV.
 
-- **To-Do App** - [Repository]([https://github.com/shreyas-codes25/to-do-app](https://github.com/shreyas-codes25/todo_list_using_flutter))
+- **To-Do App** - [Repository](https://github.com/shreyas-codes25/todo_list_using_flutter)
   - Built a simple to-do application using Flutter and Firebase.
   - Implemented CRUD operations for managing tasks.
+
 
 ## 🚀 Skills & Interests
 
