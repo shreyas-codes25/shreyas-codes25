@@ -24,6 +24,7 @@
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev/)
 [![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)](https://reactnative.dev/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Google Play Console](https://img.shields.io/badge/-Play%20Console-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/console/)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://www.learn-c.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)[![.NET Framework](https://img.shields.io/badge/-.NET_Framework-5C2D91?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
