@@ -13,12 +13,14 @@
 ## 🔧 My Tech Stack
 
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/studio)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev/)
 [![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)](https://reactnative.dev/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Google Play Console](https://img.shields.io/badge/-Play%20Console-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/console/)
 [![Artificial Intelligence](https://img.shields.io/badge/-AI-FF6F00?style=flat&logo=openai&logoColor=white)](https://openai.com/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
@@ -34,7 +36,6 @@
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Web Hosting](https://img.shields.io/badge/-Web%20Hosting-333333?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com/)
-[![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/studio)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![StarUML](https://img.shields.io/badge/-StarUML-326CE5?style=flat&logo=staruml&logoColor=white)](http://staruml.io/)
